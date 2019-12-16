@@ -2,7 +2,7 @@
   "construction_properties": [
     {
       "template": "NREL ZNE Ready 2017",
-      "climate_zone_set": "ClimateZone 0",
+      "climate_zone_set": "ClimateZone 1",
       "operation_type": null,
       "intended_surface_type": "ExteriorDoor",
       "standards_construction_type": "NonSwinging",
@@ -22,7 +22,7 @@
     },
     {
       "template": "NREL ZNE Ready 2017",
-      "climate_zone_set": "ClimateZone 0",
+      "climate_zone_set": "ClimateZone 1",
       "operation_type": null,
       "intended_surface_type": "ExteriorDoor",
       "standards_construction_type": "NonSwinging",
@@ -42,7 +42,7 @@
     },
     {
       "template": "NREL ZNE Ready 2017",
-      "climate_zone_set": "ClimateZone 0",
+      "climate_zone_set": "ClimateZone 1",
       "operation_type": null,
       "intended_surface_type": "ExteriorDoor",
       "standards_construction_type": "Swinging",
@@ -62,7 +62,7 @@
     },
     {
       "template": "NREL ZNE Ready 2017",
-      "climate_zone_set": "ClimateZone 0",
+      "climate_zone_set": "ClimateZone 1",
       "operation_type": null,
       "intended_surface_type": "ExteriorDoor",
       "standards_construction_type": "Swinging",
@@ -82,7 +82,7 @@
     },
     {
       "template": "NREL ZNE Ready 2017",
-      "climate_zone_set": "ClimateZone 0",
+      "climate_zone_set": "ClimateZone 1",
       "operation_type": null,
       "intended_surface_type": "ExteriorFloor",
       "standards_construction_type": "Mass",
@@ -102,7 +102,7 @@
     },
     {
       "template": "NREL ZNE Ready 2017",
-      "climate_zone_set": "ClimateZone 0",
+      "climate_zone_set": "ClimateZone 1",
       "operation_type": null,
       "intended_surface_type": "ExteriorRoof",
       "standards_construction_type": "Attic and Other",
@@ -122,7 +122,7 @@
     },
     {
       "template": "NREL ZNE Ready 2017",
-      "climate_zone_set": "ClimateZone 0",
+      "climate_zone_set": "ClimateZone 1",
       "operation_type": null,
       "intended_surface_type": "ExteriorRoof",
       "standards_construction_type": "Attic and Other",
@@ -142,7 +142,7 @@
     },
     {
       "template": "NREL ZNE Ready 2017",
-      "climate_zone_set": "ClimateZone 0",
+      "climate_zone_set": "ClimateZone 1",
       "operation_type": null,
       "intended_surface_type": "ExteriorRoof",
       "standards_construction_type": "Attic and Other",
@@ -162,7 +162,7 @@
     },
     {
       "template": "NREL ZNE Ready 2017",
-      "climate_zone_set": "ClimateZone 0",
+      "climate_zone_set": "ClimateZone 1",
       "operation_type": null,
       "intended_surface_type": "ExteriorRoof",
       "standards_construction_type": "IEAD",
@@ -171,7 +171,7 @@
       "orientation": null,
       "minimum_percent_of_surface": null,
       "maximum_percent_of_surface": null,
-      "assembly_maximum_u_value": 0.039,
+      "assembly_maximum_u_value": 0.032,
       "u_value_includes_interior_film_coefficient": true,
       "u_value_includes_exterior_film_coefficient": true,
       "assembly_maximum_f_factor": null,
@@ -182,7 +182,7 @@
     },
     {
       "template": "NREL ZNE Ready 2017",
-      "climate_zone_set": "ClimateZone 0",
+      "climate_zone_set": "ClimateZone 1",
       "operation_type": null,
       "intended_surface_type": "ExteriorRoof",
       "standards_construction_type": "IEAD",
@@ -202,7 +202,7 @@
     },
     {
       "template": "NREL ZNE Ready 2017",
-      "climate_zone_set": "ClimateZone 0",
+      "climate_zone_set": "ClimateZone 1",
       "operation_type": null,
       "intended_surface_type": "ExteriorWall",
       "standards_construction_type": "Mass",
@@ -222,456 +222,16 @@
     },
     {
       "template": "NREL ZNE Ready 2017",
-      "climate_zone_set": "ClimateZone 0",
+      "climate_zone_set": "ClimateZone 1",
       "operation_type": null,
       "intended_surface_type": "ExteriorWall",
       "standards_construction_type": "Mass",
       "building_category": "Nonresidential",
-      "construction": "Typical Insulated Exterior Mass Wall",
-      "orientation": null,
-      "minimum_percent_of_surface": null,
-      "maximum_percent_of_surface": null,
-      "assembly_maximum_u_value": 0.58,
-      "u_value_includes_interior_film_coefficient": true,
-      "u_value_includes_exterior_film_coefficient": true,
-      "assembly_maximum_f_factor": null,
-      "assembly_maximum_c_factor": null,
-      "assembly_maximum_solar_heat_gain_coefficient": null,
-      "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
-    },
-    {
-      "template": "NREL ZNE Ready 2017",
-      "climate_zone_set": "ClimateZone 0",
-      "operation_type": null,
-      "intended_surface_type": "ExteriorWall",
-      "standards_construction_type": "Mass",
-      "building_category": "Residential",
       "construction": "Typical Insulated Exterior Mass Wall",
       "orientation": null,
       "minimum_percent_of_surface": null,
       "maximum_percent_of_surface": null,
       "assembly_maximum_u_value": 0.151,
-      "u_value_includes_interior_film_coefficient": true,
-      "u_value_includes_exterior_film_coefficient": true,
-      "assembly_maximum_f_factor": null,
-      "assembly_maximum_c_factor": null,
-      "assembly_maximum_solar_heat_gain_coefficient": null,
-      "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
-    },
-    {
-      "template": "NREL ZNE Ready 2017",
-      "climate_zone_set": "ClimateZone 0",
-      "operation_type": null,
-      "intended_surface_type": "ExteriorWall",
-      "standards_construction_type": "WoodFramed",
-      "building_category": "Nonresidential",
-      "construction": "Typical Insulated Wood Framed Exterior Wall",
-      "orientation": null,
-      "minimum_percent_of_surface": null,
-      "maximum_percent_of_surface": null,
-      "assembly_maximum_u_value": 0.089,
-      "u_value_includes_interior_film_coefficient": true,
-      "u_value_includes_exterior_film_coefficient": true,
-      "assembly_maximum_f_factor": null,
-      "assembly_maximum_c_factor": null,
-      "assembly_maximum_solar_heat_gain_coefficient": null,
-      "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
-    },
-    {
-      "template": "NREL ZNE Ready 2017",
-      "climate_zone_set": "ClimateZone 0",
-      "operation_type": null,
-      "intended_surface_type": "ExteriorWall",
-      "standards_construction_type": "WoodFramed",
-      "building_category": "Residential",
-      "construction": "Typical Insulated Wood Framed Exterior Wall",
-      "orientation": null,
-      "minimum_percent_of_surface": null,
-      "maximum_percent_of_surface": null,
-      "assembly_maximum_u_value": 0.089,
-      "u_value_includes_interior_film_coefficient": true,
-      "u_value_includes_exterior_film_coefficient": true,
-      "assembly_maximum_f_factor": null,
-      "assembly_maximum_c_factor": null,
-      "assembly_maximum_solar_heat_gain_coefficient": null,
-      "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
-    },
-    {
-      "template": "NREL ZNE Ready 2017",
-      "climate_zone_set": "ClimateZone 0",
-      "operation_type": null,
-      "intended_surface_type": "ExteriorWindow",
-      "standards_construction_type": "Metal framing (all other)",
-      "building_category": "Nonresidential",
-      "construction": "U 0.62 SHGC 0.20 Simple Glazing Window",
-      "orientation": null,
-      "minimum_percent_of_surface": null,
-      "maximum_percent_of_surface": null,
-      "assembly_maximum_u_value": 0.62,
-      "u_value_includes_interior_film_coefficient": true,
-      "u_value_includes_exterior_film_coefficient": true,
-      "assembly_maximum_f_factor": null,
-      "assembly_maximum_c_factor": null,
-      "assembly_maximum_solar_heat_gain_coefficient": 0.2,
-      "assembly_minimum_vt_shgc": 1.1,
-      "notes": "Same as 90.1-2019"
-    },
-    {
-      "template": "NREL ZNE Ready 2017",
-      "climate_zone_set": "ClimateZone 0",
-      "operation_type": null,
-      "intended_surface_type": "ExteriorWindow",
-      "standards_construction_type": "Metal framing (all other)",
-      "building_category": "Residential",
-      "construction": "U 0.62 SHGC 0.20 Simple Glazing Window",
-      "orientation": null,
-      "minimum_percent_of_surface": null,
-      "maximum_percent_of_surface": null,
-      "assembly_maximum_u_value": 0.62,
-      "u_value_includes_interior_film_coefficient": true,
-      "u_value_includes_exterior_film_coefficient": true,
-      "assembly_maximum_f_factor": null,
-      "assembly_maximum_c_factor": null,
-      "assembly_maximum_solar_heat_gain_coefficient": 0.2,
-      "assembly_minimum_vt_shgc": 1.1,
-      "notes": "Same as 90.1-2019"
-    },
-    {
-      "template": "NREL ZNE Ready 2017",
-      "climate_zone_set": "ClimateZone 0",
-      "operation_type": null,
-      "intended_surface_type": "ExteriorWindow",
-      "standards_construction_type": "Metal framing (curtainwall/storefront)",
-      "building_category": "Nonresidential",
-      "construction": "U 0.50 SHGC 0.22 Simple Glazing Window",
-      "orientation": null,
-      "minimum_percent_of_surface": null,
-      "maximum_percent_of_surface": null,
-      "assembly_maximum_u_value": 0.5,
-      "u_value_includes_interior_film_coefficient": true,
-      "u_value_includes_exterior_film_coefficient": true,
-      "assembly_maximum_f_factor": null,
-      "assembly_maximum_c_factor": null,
-      "assembly_maximum_solar_heat_gain_coefficient": 0.22,
-      "assembly_minimum_vt_shgc": 1.1,
-      "notes": "Same as 90.1-2019"
-    },
-    {
-      "template": "NREL ZNE Ready 2017",
-      "climate_zone_set": "ClimateZone 0",
-      "operation_type": null,
-      "intended_surface_type": "ExteriorWindow",
-      "standards_construction_type": "Metal framing (curtainwall/storefront)",
-      "building_category": "Residential",
-      "construction": "U 0.50 SHGC 0.22 Simple Glazing Window",
-      "orientation": null,
-      "minimum_percent_of_surface": null,
-      "maximum_percent_of_surface": null,
-      "assembly_maximum_u_value": 0.5,
-      "u_value_includes_interior_film_coefficient": true,
-      "u_value_includes_exterior_film_coefficient": true,
-      "assembly_maximum_f_factor": null,
-      "assembly_maximum_c_factor": null,
-      "assembly_maximum_solar_heat_gain_coefficient": 0.22,
-      "assembly_minimum_vt_shgc": 1.1,
-      "notes": "Same as 90.1-2019"
-    },
-    {
-      "template": "NREL ZNE Ready 2017",
-      "climate_zone_set": "ClimateZone 0",
-      "operation_type": null,
-      "intended_surface_type": "GroundContactFloor",
-      "standards_construction_type": "Mass",
-      "building_category": "Adiabatic",
-      "construction": "Adiabatic GroundContactFloor",
-      "orientation": null,
-      "minimum_percent_of_surface": null,
-      "maximum_percent_of_surface": 0.0,
-      "assembly_maximum_u_value": null,
-      "u_value_includes_interior_film_coefficient": null,
-      "u_value_includes_exterior_film_coefficient": null,
-      "assembly_maximum_f_factor": null,
-      "assembly_maximum_c_factor": null,
-      "assembly_maximum_solar_heat_gain_coefficient": null,
-      "assembly_minimum_vt_shgc": null,
-      "notes": null
-    },
-    {
-      "template": "NREL ZNE Ready 2017",
-      "climate_zone_set": "ClimateZone 0",
-      "operation_type": null,
-      "intended_surface_type": "GroundContactFloor",
-      "standards_construction_type": "Unheated",
-      "building_category": "Nonresidential",
-      "construction": "Typical Insulated Carpeted 8in Slab Floor",
-      "orientation": null,
-      "minimum_percent_of_surface": null,
-      "maximum_percent_of_surface": null,
-      "assembly_maximum_u_value": null,
-      "u_value_includes_interior_film_coefficient": true,
-      "u_value_includes_exterior_film_coefficient": true,
-      "assembly_maximum_f_factor": 0.73,
-      "assembly_maximum_c_factor": null,
-      "assembly_maximum_solar_heat_gain_coefficient": null,
-      "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
-    },
-    {
-      "template": "NREL ZNE Ready 2017",
-      "climate_zone_set": "ClimateZone 0",
-      "operation_type": null,
-      "intended_surface_type": "GroundContactFloor",
-      "standards_construction_type": "Unheated",
-      "building_category": "Residential",
-      "construction": "Typical Insulated Carpeted 6in Slab Floor",
-      "orientation": null,
-      "minimum_percent_of_surface": null,
-      "maximum_percent_of_surface": null,
-      "assembly_maximum_u_value": null,
-      "u_value_includes_interior_film_coefficient": true,
-      "u_value_includes_exterior_film_coefficient": true,
-      "assembly_maximum_f_factor": 0.73,
-      "assembly_maximum_c_factor": null,
-      "assembly_maximum_solar_heat_gain_coefficient": null,
-      "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
-    },
-    {
-      "template": "NREL ZNE Ready 2017",
-      "climate_zone_set": "ClimateZone 1",
-      "operation_type": null,
-      "intended_surface_type": "ExteriorDoor",
-      "standards_construction_type": "NonSwinging",
-      "building_category": "Nonresidential",
-      "construction": "Typical Overhead Door",
-      "orientation": null,
-      "minimum_percent_of_surface": null,
-      "maximum_percent_of_surface": null,
-      "assembly_maximum_u_value": 0.37,
-      "u_value_includes_interior_film_coefficient": true,
-      "u_value_includes_exterior_film_coefficient": true,
-      "assembly_maximum_f_factor": null,
-      "assembly_maximum_c_factor": null,
-      "assembly_maximum_solar_heat_gain_coefficient": null,
-      "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
-    },
-    {
-      "template": "NREL ZNE Ready 2017",
-      "climate_zone_set": "ClimateZone 1",
-      "operation_type": null,
-      "intended_surface_type": "ExteriorDoor",
-      "standards_construction_type": "NonSwinging",
-      "building_category": "Residential",
-      "construction": "Typical Overhead Door",
-      "orientation": null,
-      "minimum_percent_of_surface": null,
-      "maximum_percent_of_surface": null,
-      "assembly_maximum_u_value": 0.37,
-      "u_value_includes_interior_film_coefficient": true,
-      "u_value_includes_exterior_film_coefficient": true,
-      "assembly_maximum_f_factor": null,
-      "assembly_maximum_c_factor": null,
-      "assembly_maximum_solar_heat_gain_coefficient": null,
-      "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
-    },
-    {
-      "template": "NREL ZNE Ready 2017",
-      "climate_zone_set": "ClimateZone 1",
-      "operation_type": null,
-      "intended_surface_type": "ExteriorDoor",
-      "standards_construction_type": "Swinging",
-      "building_category": "Nonresidential",
-      "construction": "Typical Insulated Metal Door",
-      "orientation": null,
-      "minimum_percent_of_surface": null,
-      "maximum_percent_of_surface": null,
-      "assembly_maximum_u_value": 0.37,
-      "u_value_includes_interior_film_coefficient": true,
-      "u_value_includes_exterior_film_coefficient": true,
-      "assembly_maximum_f_factor": null,
-      "assembly_maximum_c_factor": null,
-      "assembly_maximum_solar_heat_gain_coefficient": null,
-      "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
-    },
-    {
-      "template": "NREL ZNE Ready 2017",
-      "climate_zone_set": "ClimateZone 1",
-      "operation_type": null,
-      "intended_surface_type": "ExteriorDoor",
-      "standards_construction_type": "Swinging",
-      "building_category": "Residential",
-      "construction": "Typical Insulated Metal Door",
-      "orientation": null,
-      "minimum_percent_of_surface": null,
-      "maximum_percent_of_surface": null,
-      "assembly_maximum_u_value": 0.37,
-      "u_value_includes_interior_film_coefficient": true,
-      "u_value_includes_exterior_film_coefficient": true,
-      "assembly_maximum_f_factor": null,
-      "assembly_maximum_c_factor": null,
-      "assembly_maximum_solar_heat_gain_coefficient": null,
-      "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
-    },
-    {
-      "template": "NREL ZNE Ready 2017",
-      "climate_zone_set": "ClimateZone 1",
-      "operation_type": null,
-      "intended_surface_type": "ExteriorFloor",
-      "standards_construction_type": "Mass",
-      "building_category": "Adiabatic",
-      "construction": "Adiabatic ExteriorFloor",
-      "orientation": null,
-      "minimum_percent_of_surface": null,
-      "maximum_percent_of_surface": 0.0,
-      "assembly_maximum_u_value": null,
-      "u_value_includes_interior_film_coefficient": null,
-      "u_value_includes_exterior_film_coefficient": null,
-      "assembly_maximum_f_factor": null,
-      "assembly_maximum_c_factor": null,
-      "assembly_maximum_solar_heat_gain_coefficient": null,
-      "assembly_minimum_vt_shgc": null,
-      "notes": null
-    },
-    {
-      "template": "NREL ZNE Ready 2017",
-      "climate_zone_set": "ClimateZone 1",
-      "operation_type": null,
-      "intended_surface_type": "ExteriorRoof",
-      "standards_construction_type": "Attic and Other",
-      "building_category": "Adiabatic",
-      "construction": "Adiabatic Roof",
-      "orientation": null,
-      "minimum_percent_of_surface": null,
-      "maximum_percent_of_surface": 0.0,
-      "assembly_maximum_u_value": null,
-      "u_value_includes_interior_film_coefficient": null,
-      "u_value_includes_exterior_film_coefficient": null,
-      "assembly_maximum_f_factor": null,
-      "assembly_maximum_c_factor": null,
-      "assembly_maximum_solar_heat_gain_coefficient": null,
-      "assembly_minimum_vt_shgc": null,
-      "notes": null
-    },
-    {
-      "template": "NREL ZNE Ready 2017",
-      "climate_zone_set": "ClimateZone 1",
-      "operation_type": null,
-      "intended_surface_type": "ExteriorRoof",
-      "standards_construction_type": "Attic and Other",
-      "building_category": "Nonresidential",
-      "construction": "Typical Wood Joist Attic Floor",
-      "orientation": null,
-      "minimum_percent_of_surface": null,
-      "maximum_percent_of_surface": null,
-      "assembly_maximum_u_value": 0.027,
-      "u_value_includes_interior_film_coefficient": true,
-      "u_value_includes_exterior_film_coefficient": true,
-      "assembly_maximum_f_factor": null,
-      "assembly_maximum_c_factor": null,
-      "assembly_maximum_solar_heat_gain_coefficient": null,
-      "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
-    },
-    {
-      "template": "NREL ZNE Ready 2017",
-      "climate_zone_set": "ClimateZone 1",
-      "operation_type": null,
-      "intended_surface_type": "ExteriorRoof",
-      "standards_construction_type": "Attic and Other",
-      "building_category": "Residential",
-      "construction": "Typical Wood Joist Attic Floor",
-      "orientation": null,
-      "minimum_percent_of_surface": null,
-      "maximum_percent_of_surface": null,
-      "assembly_maximum_u_value": 0.027,
-      "u_value_includes_interior_film_coefficient": true,
-      "u_value_includes_exterior_film_coefficient": true,
-      "assembly_maximum_f_factor": null,
-      "assembly_maximum_c_factor": null,
-      "assembly_maximum_solar_heat_gain_coefficient": null,
-      "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
-    },
-    {
-      "template": "NREL ZNE Ready 2017",
-      "climate_zone_set": "ClimateZone 1",
-      "operation_type": null,
-      "intended_surface_type": "ExteriorRoof",
-      "standards_construction_type": "IEAD",
-      "building_category": "Nonresidential",
-      "construction": "Typical IEAD Roof",
-      "orientation": null,
-      "minimum_percent_of_surface": null,
-      "maximum_percent_of_surface": null,
-      "assembly_maximum_u_value": 0.048,
-      "u_value_includes_interior_film_coefficient": true,
-      "u_value_includes_exterior_film_coefficient": true,
-      "assembly_maximum_f_factor": null,
-      "assembly_maximum_c_factor": null,
-      "assembly_maximum_solar_heat_gain_coefficient": null,
-      "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
-    },
-    {
-      "template": "NREL ZNE Ready 2017",
-      "climate_zone_set": "ClimateZone 1",
-      "operation_type": null,
-      "intended_surface_type": "ExteriorRoof",
-      "standards_construction_type": "IEAD",
-      "building_category": "Residential",
-      "construction": "Typical IEAD Roof",
-      "orientation": null,
-      "minimum_percent_of_surface": null,
-      "maximum_percent_of_surface": null,
-      "assembly_maximum_u_value": 0.039,
-      "u_value_includes_interior_film_coefficient": true,
-      "u_value_includes_exterior_film_coefficient": true,
-      "assembly_maximum_f_factor": null,
-      "assembly_maximum_c_factor": null,
-      "assembly_maximum_solar_heat_gain_coefficient": null,
-      "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
-    },
-    {
-      "template": "NREL ZNE Ready 2017",
-      "climate_zone_set": "ClimateZone 1",
-      "operation_type": null,
-      "intended_surface_type": "ExteriorWall",
-      "standards_construction_type": "Mass",
-      "building_category": "Adiabatic",
-      "construction": "Adiabatic Wall",
-      "orientation": null,
-      "minimum_percent_of_surface": null,
-      "maximum_percent_of_surface": 0.0,
-      "assembly_maximum_u_value": null,
-      "u_value_includes_interior_film_coefficient": null,
-      "u_value_includes_exterior_film_coefficient": null,
-      "assembly_maximum_f_factor": null,
-      "assembly_maximum_c_factor": null,
-      "assembly_maximum_solar_heat_gain_coefficient": null,
-      "assembly_minimum_vt_shgc": null,
-      "notes": null
-    },
-    {
-      "template": "NREL ZNE Ready 2017",
-      "climate_zone_set": "ClimateZone 1",
-      "operation_type": null,
-      "intended_surface_type": "ExteriorWall",
-      "standards_construction_type": "Mass",
-      "building_category": "Nonresidential",
-      "construction": "Typical Insulated Exterior Mass Wall",
-      "orientation": null,
-      "minimum_percent_of_surface": null,
-      "maximum_percent_of_surface": null,
-      "assembly_maximum_u_value": 0.58,
       "u_value_includes_interior_film_coefficient": true,
       "u_value_includes_exterior_film_coefficient": true,
       "assembly_maximum_f_factor": null,
@@ -1111,7 +671,7 @@
       "orientation": null,
       "minimum_percent_of_surface": null,
       "maximum_percent_of_surface": null,
-      "assembly_maximum_u_value": 0.151,
+      "assembly_maximum_u_value": 0.123,
       "u_value_includes_interior_film_coefficient": true,
       "u_value_includes_exterior_film_coefficient": true,
       "assembly_maximum_f_factor": null,
@@ -1551,7 +1111,7 @@
       "orientation": null,
       "minimum_percent_of_surface": null,
       "maximum_percent_of_surface": null,
-      "assembly_maximum_u_value": 0.123,
+      "assembly_maximum_u_value": 0.104,
       "u_value_includes_interior_film_coefficient": true,
       "u_value_includes_exterior_film_coefficient": true,
       "assembly_maximum_f_factor": null,
@@ -1591,7 +1151,7 @@
       "orientation": null,
       "minimum_percent_of_surface": null,
       "maximum_percent_of_surface": null,
-      "assembly_maximum_u_value": 0.089,
+      "assembly_maximum_u_value": 0.064,
       "u_value_includes_interior_film_coefficient": true,
       "u_value_includes_exterior_film_coefficient": true,
       "assembly_maximum_f_factor": null,
@@ -1734,7 +1294,7 @@
       "assembly_maximum_u_value": null,
       "u_value_includes_interior_film_coefficient": true,
       "u_value_includes_exterior_film_coefficient": true,
-      "assembly_maximum_f_factor": 0.73,
+      "assembly_maximum_f_factor": 0.54,
       "assembly_maximum_c_factor": null,
       "assembly_maximum_solar_heat_gain_coefficient": null,
       "assembly_minimum_vt_shgc": null,
@@ -1991,7 +1551,7 @@
       "orientation": null,
       "minimum_percent_of_surface": null,
       "maximum_percent_of_surface": null,
-      "assembly_maximum_u_value": 0.104,
+      "assembly_maximum_u_value": 0.9,
       "u_value_includes_interior_film_coefficient": true,
       "u_value_includes_exterior_film_coefficient": true,
       "assembly_maximum_f_factor": null,
@@ -2031,7 +1591,7 @@
       "orientation": null,
       "minimum_percent_of_surface": null,
       "maximum_percent_of_surface": null,
-      "assembly_maximum_u_value": 0.064,
+      "assembly_maximum_u_value": 0.084,
       "u_value_includes_interior_film_coefficient": true,
       "u_value_includes_exterior_film_coefficient": true,
       "assembly_maximum_f_factor": null,
@@ -2051,7 +1611,7 @@
       "orientation": null,
       "minimum_percent_of_surface": null,
       "maximum_percent_of_surface": null,
-      "assembly_maximum_u_value": 0.064,
+      "assembly_maximum_u_value": 0.084,
       "u_value_includes_interior_film_coefficient": true,
       "u_value_includes_exterior_film_coefficient": true,
       "assembly_maximum_f_factor": null,
@@ -2067,11 +1627,11 @@
       "intended_surface_type": "ExteriorWindow",
       "standards_construction_type": "Metal framing (all other)",
       "building_category": "Nonresidential",
-      "construction": "U 0.45 SHGC 0.33 Simple Glazing Window",
+      "construction": "U 0.47 SHGC 0.33 Simple Glazing Window",
       "orientation": null,
       "minimum_percent_of_surface": null,
       "maximum_percent_of_surface": null,
-      "assembly_maximum_u_value": 0.45,
+      "assembly_maximum_u_value": 0.47,
       "u_value_includes_interior_film_coefficient": true,
       "u_value_includes_exterior_film_coefficient": true,
       "assembly_maximum_f_factor": null,
@@ -2087,11 +1647,11 @@
       "intended_surface_type": "ExteriorWindow",
       "standards_construction_type": "Metal framing (all other)",
       "building_category": "Residential",
-      "construction": "U 0.45 SHGC 0.33 Simple Glazing Window",
+      "construction": "U 0.47 SHGC 0.33 Simple Glazing Window",
       "orientation": null,
       "minimum_percent_of_surface": null,
       "maximum_percent_of_surface": null,
-      "assembly_maximum_u_value": 0.45,
+      "assembly_maximum_u_value": 0.47,
       "u_value_includes_interior_film_coefficient": true,
       "u_value_includes_exterior_film_coefficient": true,
       "assembly_maximum_f_factor": null,
@@ -2251,14 +1811,14 @@
       "orientation": null,
       "minimum_percent_of_surface": null,
       "maximum_percent_of_surface": null,
-      "assembly_maximum_u_value": 0.36,
+      "assembly_maximum_u_value": 1.45,
       "u_value_includes_interior_film_coefficient": true,
       "u_value_includes_exterior_film_coefficient": true,
       "assembly_maximum_f_factor": null,
       "assembly_maximum_c_factor": null,
       "assembly_maximum_solar_heat_gain_coefficient": null,
       "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
+      "notes": "Same as 90.1-2013"
     },
     {
       "template": "NREL ZNE Ready 2017",
@@ -2311,14 +1871,14 @@
       "orientation": null,
       "minimum_percent_of_surface": null,
       "maximum_percent_of_surface": null,
-      "assembly_maximum_u_value": 0.37,
+      "assembly_maximum_u_value": 0.7,
       "u_value_includes_interior_film_coefficient": true,
       "u_value_includes_exterior_film_coefficient": true,
       "assembly_maximum_f_factor": null,
       "assembly_maximum_c_factor": null,
       "assembly_maximum_solar_heat_gain_coefficient": null,
       "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
+      "notes": "Same as 90.1-2013"
     },
     {
       "template": "NREL ZNE Ready 2017",
@@ -2358,7 +1918,7 @@
       "assembly_maximum_c_factor": null,
       "assembly_maximum_solar_heat_gain_coefficient": null,
       "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
+      "notes": "Same as 90.1-2013"
     },
     {
       "template": "NREL ZNE Ready 2017",
@@ -2378,7 +1938,7 @@
       "assembly_maximum_c_factor": null,
       "assembly_maximum_solar_heat_gain_coefficient": null,
       "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
+      "notes": "Same as 90.1-2013"
     },
     {
       "template": "NREL ZNE Ready 2017",
@@ -2398,7 +1958,7 @@
       "assembly_maximum_c_factor": null,
       "assembly_maximum_solar_heat_gain_coefficient": null,
       "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
+      "notes": "Same as 90.1-2013"
     },
     {
       "template": "NREL ZNE Ready 2017",
@@ -2418,7 +1978,7 @@
       "assembly_maximum_c_factor": null,
       "assembly_maximum_solar_heat_gain_coefficient": null,
       "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
+      "notes": "Same as 90.1-2013"
     },
     {
       "template": "NREL ZNE Ready 2017",
@@ -2438,7 +1998,7 @@
       "assembly_maximum_c_factor": null,
       "assembly_maximum_solar_heat_gain_coefficient": null,
       "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
+      "notes": "Same as 90.1-2013"
     },
     {
       "template": "NREL ZNE Ready 2017",
@@ -2458,7 +2018,7 @@
       "assembly_maximum_c_factor": null,
       "assembly_maximum_solar_heat_gain_coefficient": null,
       "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
+      "notes": "Same as 90.1-2013"
     },
     {
       "template": "NREL ZNE Ready 2017",
@@ -2478,7 +2038,7 @@
       "assembly_maximum_c_factor": null,
       "assembly_maximum_solar_heat_gain_coefficient": null,
       "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
+      "notes": "Same as 90.1-2013"
     },
     {
       "template": "NREL ZNE Ready 2017",
@@ -2498,7 +2058,7 @@
       "assembly_maximum_c_factor": null,
       "assembly_maximum_solar_heat_gain_coefficient": null,
       "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
+      "notes": "Same as 90.1-2013"
     },
     {
       "template": "NREL ZNE Ready 2017",
@@ -2518,7 +2078,7 @@
       "assembly_maximum_c_factor": null,
       "assembly_maximum_solar_heat_gain_coefficient": null,
       "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
+      "notes": "Same as 90.1-2013"
     },
     {
       "template": "NREL ZNE Ready 2017",
@@ -2598,7 +2158,7 @@
       "assembly_maximum_c_factor": null,
       "assembly_maximum_solar_heat_gain_coefficient": null,
       "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
+      "notes": "Same as 90.1-2013"
     },
     {
       "template": "NREL ZNE Ready 2017",
@@ -2658,7 +2218,7 @@
       "assembly_maximum_c_factor": null,
       "assembly_maximum_solar_heat_gain_coefficient": null,
       "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
+      "notes": "Same as 90.1-2013"
     },
     {
       "template": "NREL ZNE Ready 2017",
@@ -2678,7 +2238,7 @@
       "assembly_maximum_c_factor": null,
       "assembly_maximum_solar_heat_gain_coefficient": null,
       "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
+      "notes": "Same as 90.1-2013"
     },
     {
       "template": "NREL ZNE Ready 2017",
@@ -2698,7 +2258,7 @@
       "assembly_maximum_c_factor": null,
       "assembly_maximum_solar_heat_gain_coefficient": null,
       "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
+      "notes": "Same as 90.1-2013"
     },
     {
       "template": "NREL ZNE Ready 2017",
@@ -2718,7 +2278,7 @@
       "assembly_maximum_c_factor": null,
       "assembly_maximum_solar_heat_gain_coefficient": null,
       "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
+      "notes": "Same as 90.1-2013"
     },
     {
       "template": "NREL ZNE Ready 2017",
@@ -2751,7 +2311,7 @@
       "orientation": null,
       "minimum_percent_of_surface": null,
       "maximum_percent_of_surface": null,
-      "assembly_maximum_u_value": 0.09,
+      "assembly_maximum_u_value": 0.8,
       "u_value_includes_interior_film_coefficient": true,
       "u_value_includes_exterior_film_coefficient": true,
       "assembly_maximum_f_factor": null,
@@ -2798,7 +2358,7 @@
       "assembly_maximum_c_factor": null,
       "assembly_maximum_solar_heat_gain_coefficient": null,
       "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
+      "notes": "Same as 90.1-2013"
     },
     {
       "template": "NREL ZNE Ready 2017",
@@ -2818,7 +2378,7 @@
       "assembly_maximum_c_factor": null,
       "assembly_maximum_solar_heat_gain_coefficient": null,
       "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
+      "notes": "Same as 90.1-2013"
     },
     {
       "template": "NREL ZNE Ready 2017",
@@ -2838,7 +2398,7 @@
       "assembly_maximum_c_factor": null,
       "assembly_maximum_solar_heat_gain_coefficient": null,
       "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
+      "notes": "Same as 90.1-2013"
     },
     {
       "template": "NREL ZNE Ready 2017",
@@ -2858,7 +2418,7 @@
       "assembly_maximum_c_factor": null,
       "assembly_maximum_solar_heat_gain_coefficient": null,
       "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
+      "notes": "Same as 90.1-2013"
     },
     {
       "template": "NREL ZNE Ready 2017",
@@ -2871,14 +2431,14 @@
       "orientation": null,
       "minimum_percent_of_surface": null,
       "maximum_percent_of_surface": null,
-      "assembly_maximum_u_value": 0.055,
+      "assembly_maximum_u_value": 0.049,
       "u_value_includes_interior_film_coefficient": true,
       "u_value_includes_exterior_film_coefficient": true,
       "assembly_maximum_f_factor": null,
       "assembly_maximum_c_factor": null,
       "assembly_maximum_solar_heat_gain_coefficient": null,
       "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
+      "notes": "90.1-2013 Climate Zone 6 requirement"
     },
     {
       "template": "NREL ZNE Ready 2017",
@@ -2891,14 +2451,14 @@
       "orientation": null,
       "minimum_percent_of_surface": null,
       "maximum_percent_of_surface": null,
-      "assembly_maximum_u_value": 0.055,
+      "assembly_maximum_u_value": 0.049,
       "u_value_includes_interior_film_coefficient": true,
       "u_value_includes_exterior_film_coefficient": true,
       "assembly_maximum_f_factor": null,
       "assembly_maximum_c_factor": null,
       "assembly_maximum_solar_heat_gain_coefficient": null,
       "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
+      "notes": "90.1-2013 Climate Zone 6 requirement"
     },
     {
       "template": "NREL ZNE Ready 2017",
@@ -2918,7 +2478,7 @@
       "assembly_maximum_c_factor": null,
       "assembly_maximum_solar_heat_gain_coefficient": null,
       "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
+      "notes": "Same as 90.1-2013"
     },
     {
       "template": "NREL ZNE Ready 2017",
@@ -2978,7 +2538,7 @@
       "assembly_maximum_c_factor": null,
       "assembly_maximum_solar_heat_gain_coefficient": null,
       "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
+      "notes": "Same as 90.1-2013"
     },
     {
       "template": "NREL ZNE Ready 2017",
@@ -3238,7 +2798,7 @@
       "assembly_maximum_c_factor": null,
       "assembly_maximum_solar_heat_gain_coefficient": null,
       "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
+      "notes": "Same as 90.1-2013"
     },
     {
       "template": "NREL ZNE Ready 2017",
@@ -3258,7 +2818,7 @@
       "assembly_maximum_c_factor": null,
       "assembly_maximum_solar_heat_gain_coefficient": null,
       "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
+      "notes": "Same as 90.1-2013"
     },
     {
       "template": "NREL ZNE Ready 2017",
@@ -3278,7 +2838,7 @@
       "assembly_maximum_c_factor": null,
       "assembly_maximum_solar_heat_gain_coefficient": null,
       "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
+      "notes": "Same as 90.1-2013"
     },
     {
       "template": "NREL ZNE Ready 2017",
@@ -3314,7 +2874,7 @@
       "assembly_maximum_u_value": null,
       "u_value_includes_interior_film_coefficient": true,
       "u_value_includes_exterior_film_coefficient": true,
-      "assembly_maximum_f_factor": 0.52,
+      "assembly_maximum_f_factor": 0.51,
       "assembly_maximum_c_factor": null,
       "assembly_maximum_solar_heat_gain_coefficient": null,
       "assembly_minimum_vt_shgc": null,
@@ -3358,7 +2918,7 @@
       "assembly_maximum_c_factor": null,
       "assembly_maximum_solar_heat_gain_coefficient": null,
       "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
+      "notes": "Same as 90.1-2013"
     },
     {
       "template": "NREL ZNE Ready 2017",
@@ -3378,7 +2938,7 @@
       "assembly_maximum_c_factor": 0.119,
       "assembly_maximum_solar_heat_gain_coefficient": null,
       "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
+      "notes": "Same as 90.1-2013"
     },
     {
       "template": "NREL ZNE Ready 2017",
@@ -3398,7 +2958,7 @@
       "assembly_maximum_c_factor": 0.092,
       "assembly_maximum_solar_heat_gain_coefficient": null,
       "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
+      "notes": "Same as 90.1-2013"
     },
     {
       "template": "NREL ZNE Ready 2017",
@@ -3418,7 +2978,7 @@
       "assembly_maximum_c_factor": 1.14,
       "assembly_maximum_solar_heat_gain_coefficient": null,
       "assembly_minimum_vt_shgc": null,
-      "notes": "Same as 90.1-2019"
+      "notes": "Same as 90.1-2013"
     },
     {
       "template": "NREL ZNE Ready 2017",
@@ -3831,7 +3391,7 @@
       "orientation": null,
       "minimum_percent_of_surface": null,
       "maximum_percent_of_surface": null,
-      "assembly_maximum_u_value": 0.08,
+      "assembly_maximum_u_value": 0.071,
       "u_value_includes_interior_film_coefficient": true,
       "u_value_includes_exterior_film_coefficient": true,
       "assembly_maximum_f_factor": null,
@@ -4014,7 +3574,7 @@
       "assembly_maximum_u_value": null,
       "u_value_includes_interior_film_coefficient": true,
       "u_value_includes_exterior_film_coefficient": true,
-      "assembly_maximum_f_factor": 0.51,
+      "assembly_maximum_f_factor": 0.434,
       "assembly_maximum_c_factor": null,
       "assembly_maximum_solar_heat_gain_coefficient": null,
       "assembly_minimum_vt_shgc": null,
@@ -4454,7 +4014,7 @@
       "assembly_maximum_u_value": null,
       "u_value_includes_interior_film_coefficient": true,
       "u_value_includes_exterior_film_coefficient": true,
-      "assembly_maximum_f_factor": 0.51,
+      "assembly_maximum_f_factor": 0.434,
       "assembly_maximum_c_factor": null,
       "assembly_maximum_solar_heat_gain_coefficient": null,
       "assembly_minimum_vt_shgc": null,
@@ -4894,7 +4454,7 @@
       "assembly_maximum_u_value": null,
       "u_value_includes_interior_film_coefficient": true,
       "u_value_includes_exterior_film_coefficient": true,
-      "assembly_maximum_f_factor": 0.434,
+      "assembly_maximum_f_factor": 0.424,
       "assembly_maximum_c_factor": null,
       "assembly_maximum_solar_heat_gain_coefficient": null,
       "assembly_minimum_vt_shgc": null,
