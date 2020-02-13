@@ -5,6 +5,8 @@ Standard.class_eval do
     building_type = @instvarbuilding_type
     raise 'no building_type!' if @instvarbuilding_type.nil?
     model = nil
+    # Check if the case at hand is maintained by PNNL
+    @pnnlMaintained = is_pnnl_maintained?(building_type, template)
     # There are no reference models for HighriseApartment and data centers at vintages Pre-1980 and 1980-2004,
     # nor for NECB2011. This is a quick check.
     case @instvarbuilding_type
@@ -91,6 +93,34 @@ Standard.class_eval do
     else
       model_replace_model(measure_model, model)
       return measure_model
+    end
+  end
+
+  # Identify cases maintained by PNNL
+  def is_pnnl_maintained?(building_type, template)
+    if (template == "90.1-2004" or
+        template == "90.1-2007" or
+        template == "90.1-2010" or
+        template == "90.1-2013") and
+        (building_type == "HighriseApartment" or
+         building_type == "Warehouse" or
+         building_type == "SecondarySchool" or
+         building_type == "LargeHotel" or
+         building_type == "Outpatient" or
+         building_type == "MidriseApartment" or
+         building_type == "PrimarySchool" or
+         building_type == "SmallHotel" or
+         building_type == "MediumOffice" or
+         building_type == "SmallOffice" or
+         building_type == "RetailStandalone" or
+         building_type == "Hospital" or
+         building_type == "LargeOffice" or
+         building_type == "FullServiceRestaurant" or
+         building_type == "RetailStripmall" or
+         building_type == "QuickServiceRestaurant")
+      return true
+    else
+      return false
     end
   end
 
